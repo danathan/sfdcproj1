@@ -29,11 +29,6 @@
         <name>ApprovalProcess</name>
     </types>
     <types>
-        <members>Case.Standard</members>
-        <members>Lead.Standard</members>
-        <name>AssignmentRule</name>
-    </types>
-    <types>
         <members>*</members>
         <name>AuthProvider</name>
     </types>
